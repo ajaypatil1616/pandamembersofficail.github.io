@@ -1,0 +1,139 @@
+body {
+  font-family: arial;
+}
+
+#title {
+  background-color: #ff4c68;
+  color: #fff;
+}
+
+h1 {
+  font-family: Montserrat;
+  line-height: 1.5;
+  font-size: 3.5rem;
+}
+
+.container-fluid {
+  padding: 3% 5%;
+}
+
+/* navigation bar */
+.navbar {
+  padding-bottom: 4.5rem;
+}
+
+.navbar-brand {
+  font-family: cursive;
+  font-weight: bold;
+  font-size: 3rem;
+  color: #fff;
+}
+
+.nav-item {
+  padding: 0 18px;
+}
+
+.nav-link {
+  font-size: 1.5rem;
+}
+
+/* button */
+.btn-btn {
+  margin: 5% 3% 5% 0;
+}
+
+.grp-img {
+  width: 80%;
+  /* transform: rotate(25deg); */
+}
+
+/* features */
+#features {
+  padding: 4rem 2rem;
+  background-color: skyblue;
+}
+
+.team-pl img {
+  border-radius: 500px;
+}
+
+.team-pl img:hover {}
+
+.team-pl h3 {
+  font-size: 3rem;
+  font-weight: bold;
+  text-align: center;
+}
+
+.team-pl p {
+  text-align: center;
+  font-style: italic;
+}
+
+/* testimonial Section */
+#testimonial {
+  padding: 7% 15%;
+  text-align: center;
+}
+
+#testimonial:hover {
+  background-color: #ff4c68;
+  color: #fff;
+}
+
+#testimonial h2 {
+  font-size: 2.9rem;
+  font-weight: bold;
+}
+
+.testimonial-img {
+  border-radius: 35%;
+  padding: 10px;
+}
+
+/* Press section */
+#press {
+  padding: 6% 3%;
+  background-color: aqua;
+  text-align: center;
+}
+
+#press img {
+  padding: 0 1rem;
+  border-radius: 550px;
+}
+
+#press:hover {
+  background-color: lightgreen;
+}
+
+/* pricing  */
+#pricing{
+  padding: 5% 6%;
+}
+.pricing-head h2{
+  font-size: 5rem;
+  font-weight: bolder;
+  text-align: center;
+}
+.pricing-head p{
+  font-size: 2rem;
+  text-align: center;
+  background-color:#27a745;
+}
+.card-body-edit{
+  background-color: #27a745;
+}
+.cards{
+  padding-top: 2rem;
+}
+
+/* footer */
+#footer{
+  text-align: center;
+  font-weight: bolder;
+  background-color: #333;
+  color: #fff;
+  font-size: 2.5rem;
+  padding: 3rem 0;
+}
